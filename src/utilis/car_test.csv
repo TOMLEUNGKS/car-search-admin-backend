@@ -1,0 +1,10 @@
+Brand,Model,Series (Generation),Body type,Year of Production (Begin),Year of Production (End),Badge (Version),Doors ,Seats,Drivetrain,Safety Rating,Engine Code,Engine Size (cc),Cylinder,Engine Location,Induction,Horsepower (hp),Max Horsepower @ (rpm),Torque (Nm),Max Torque @ (rpm),Power to Weight Ratio (Hp/tonne),0-100km/h (s),1/4 Mile,Fuel Type,RON Rating,Combined Fuel Consumption (l/100km),Fuel Tank Capacity (L),Approximated Range (km),Length (m),Width (m),Height (m),Wheelbase (m),Turning Circle (m),Curb Weight (tonne),Boot Capacity (L),Country Made
+BMW,3 Series,E21,Coupe,1975,1982,323i,2,5,Rear Wheel Drive,,,2315,6,Front,Naturally Aspirated,,,,,,,,Petrol,,,,,4.36,1.61,1.38,,,,,GERMANY
+BMW,3 Series,E30,Sedan,1982,1990,318i,2,5,Rear Wheel Drive,,,1796,4,Front,Naturally Aspirated,134,6000,172,4600,88.9,,,Petrol ,91,,55,,4.325,1.645,1.36,2.57,,1.125,,GERMANY
+BMW,3 Series,E30,Sedan,1982,1990,320i,4,5,Rear Wheel Drive,,,1990,6,Front,Naturally Aspirated,127,6000,164,4300,76.6,11.1,,Petrol ,91,,,,4.325,1.645,,2.57,,1.24,,GERMANY
+BMW,3 Series,E30,Sedan,1982,1990,323i,4,5,Rear Wheel Drive,,,2315,6,Front,Naturally Aspirated,,,,,,,,Petrol,,,,,4.32,1.64,1.38,,,,,GERMANY
+BMW,3 Series,E30,Sedan,1982,1990,325e,4,5,Rear Wheel Drive,,,2693,6,Front,Naturally Aspirated,,,,,,,,Petrol,,,,,4.33,1.65,1.38,,,,,GERMANY
+BMW,3 Series,E30,Sedan,1982,1990,325i,2,5,Rear Wheel Drive,,,2493,6,Front,Naturally Aspirated,168,5800,222,4000,96.2,,,Petrol,91,,,,4.325,1.645,,2.57,,1.3,,GERMANY
+BMW,3 Series,E30,Coupe,,,323i,2,5,Rear Wheel Drive,,,2315,6,Front,Naturally Aspirated,,,,,,,,Petrol,,,,,4.32,1.64,1.38,,,,,GERMANY
+BMW,3 Series,E30,Coupe,,,325e,2,5,Rear Wheel Drive,,,2693,6,Front,Naturally Aspirated,,,,,,,,Petrol,,,,,4.33,1.65,1.38,,,,,GERMANY
+BMW,3 Series,E30,Cabriolet ,,,325e,2,4,Rear Wheel Drive,,,2693,6,Front,Naturally Aspirated,,,,,,,,Petrol,,,,,4.33,1.65,1.38,,,,,
